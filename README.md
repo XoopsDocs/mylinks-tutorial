@@ -1,0 +1,4 @@
+weblinks
+========
+
+XOOPS Links Module 
