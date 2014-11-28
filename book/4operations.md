@@ -26,7 +26,9 @@ Just enter the name of the sub-category, then choose its parent category from th
 **Add a new link**
 
 Just fill in the title and URL, select a category (optional) and press 'add' to put a new link on your website. Bear in mind that the description is searchable by the XOOPS main search engine, so a good description will help your visitors find the link easily. You can, optionally, display a screenshot of the site using the drop down box to pick the appropriate image. To make a screenshot available for selection, save it with your favorite image editor into the directory:
+
 http://xoops_root/xoops/modules/mylinks/images/shots/ 
+
 Leave the screenshot dropdown box blank if you don't have one, or don't want to display one.
  
 ![img_2.jpg](../assets/img_18.jpg)  
@@ -34,21 +36,19 @@ Leave the screenshot dropdown box blank if you don't have one, or don't want to 
 **Figure 13 Form to add a new link **
 
 **Modify category**
+
 Select a category to modify using the drop down box, and press 'modify'. You can rename the category and change its category icon here.
 
 ![img_2.jpg](../assets/img_19.jpg)  
  
 
 **Modify link**
+
 This is sort of redundant as it is actually a lot easier to edit links directly through the user side - you can locate the link you want to edit using the search box, then click on the red 'edit' icon   next to the 'Description' field name to open it for modification (so long as you are logged in as an administrator). However, you can enter the ID number of a link here to open it for editing if you want to. Problem is, you probably don't know the ID (for the record, you can get it by opening an individual link on the user side and looking at the end of the URL for the pattern '&lid=X', where X is the ID, or by looking directly in the database. 
 
 Just edit links through the user side :)
 
 The 'modify link' form is nearly identical to the 'add link' form shown above. Make your changes then select the 'modify' button. There is also a 'delete' button if you wish to remove the link entirely, and a 'cancel' button to abandon your edits. However, there is some additional information displayed about 'Link Votes'. This displays the total number of votes, and for registered users: Who voted, their IP number, the rating they gave, a timestamp and the overall average rating. For anonymous users only the IP number, rating and date are logged. Users can only vote for each link once (though this is tied to IP address for anonymous users).
-
-
-
-
 
 ![img_2.jpg](../assets/img_21.jpg)  
  
