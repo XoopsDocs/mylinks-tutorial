@@ -54,10 +54,9 @@ The 'modify link' form is nearly identical to the 'add link' form shown above. M
  
 **Figure 14 Form to request link modification**
 
-Submitted links
+**Submitted links**
+
 This is an ‘editorial area’ where you view and manage links submitted by users. If you do not allow automatic publishing of submitted links (set in the preferences menu), they will be held here until you approve them. Make any desired changes then press the ‘approve’ button to make it publish it on your site – or you can delete it, if necessary.
-
-
 
 ![img_2.jpg](../assets/img_22.jpg)  
  
@@ -65,6 +64,7 @@ This is an ‘editorial area’ where you view and manage links submitted by use
 
 
 **Broken links**
+
 Broken link reports submitted by users are displayed here. There are three options for dealing with the reports. 
 
 -	Ignore - if the broken link report is false (it’s a good idea to check because they often are), select ‘ignore’ to delete it.
