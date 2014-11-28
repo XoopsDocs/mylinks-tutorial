@@ -1,4 +1,4 @@
-weblinks
+MyLinks
 ========
 
-XOOPS Links Module 
+XOOPS MyLinks Module 
