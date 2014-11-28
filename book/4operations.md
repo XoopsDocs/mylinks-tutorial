@@ -75,7 +75,8 @@ Broken link reports submitted by users are displayed here. There are three optio
 
 **Figure 16 Tab showing broken links**
 
-Modified links
+**Modified links**
+
 User-proposed amendments to links are managed here. Both the current and proposed descriptions are displayed. Your options are:
 
 -	Approve – accept the proposed change.
