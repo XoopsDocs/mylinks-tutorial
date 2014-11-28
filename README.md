@@ -14,7 +14,7 @@
 
 The MyLinks module is used to create a links section for your website. It is typically used to create a directory to other relevant websites, but you could use it to link to anything really (music, software, publications, whatever). Links can be organized into categories and sub-categories. Users can optionally be allowed to 'rate' existing links or to submit new ones.
 
-![image001.png](assets/image001.png)
+![image001.png](assets/img_03.png)
 *Figure 1: Main view of the Mylinks Module (Admin side)*
 
 # Table of Content
