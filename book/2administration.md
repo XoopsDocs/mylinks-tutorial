@@ -24,9 +24,11 @@ There are five Tabs in the Administration of the MyLinks module:
 
 **Figure 4 View of the “Add/Edit Links” Tab**
 
+
 ![img_2.jpg](../assets/img_7.jpg)   
 
 **Figure 5 View of the “Submitted Links” Tab**
+
 
 ![img_2.jpg](../assets/img_8.jpg)   
 
