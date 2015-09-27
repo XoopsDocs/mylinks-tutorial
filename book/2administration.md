@@ -1,6 +1,6 @@
 # 2.0 Administration Menu
 
-There are for options on top:
+There are four options on top:
 
 |Option|	Action|
 |---|---|
