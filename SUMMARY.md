@@ -9,4 +9,4 @@
 * [Templates](book/7templates.md)
 * [Miscellaneous Notes](book/8other.md)
 * [Module Credits](book/9credits.md)
-
+* [About XOOPS CMS](book/10aboutxoops.md)
