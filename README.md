@@ -2,7 +2,7 @@
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module MyLinks
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
             
