@@ -20,7 +20,7 @@ The MyLinks module is used to create a links section for your website. It is typ
 
 ![image001.png](.gitbook/assets/img_3.jpg)
 
-### Download/Fork the Module ![](https://github.com/XoopsDocs/mylinks-tutorial/tree/d30c30645d48c5ead51399ff711c25935cbd0495/en/assets/forkit.png)
+### Download/Fork the Module ![](https://github.com/xoops/xoops-mylinks-tutorial/tree/d30c30645d48c5ead51399ff711c25935cbd0495/en/assets/forkit.png)
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/mylinks)**\)**
 
